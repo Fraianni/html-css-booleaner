@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #4ea0ff;
+    background-image: url('img/pattern.png');
+    background-repeat: repeat-x;
+    background-size: 20%;
+    color: white;
+
+}
+
+main {
+    margin-left: 5px;
+}
+
+#logo {
+    width: 20%;
+    height: 20%;
+}
+
+#booleaner {
+    color: #4ea0ff;
+}
+
+.sottotitolo {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: grey;
+}
+
+#data {
+    color: grey;
+    font-size: 50%;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.photo {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.yellow {
+    background-color: #ffff00;
+}
+
+ul {
+    list-style-position: inside;
+    padd
+}
