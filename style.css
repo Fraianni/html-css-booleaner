@@ -48,5 +48,33 @@ main {
 
 ul {
     list-style-position: inside;
-    padd
+    padding-left: 0;
+}
+
+table {
+    border-collapse: collapse;
+    width: 99%;
+}
+
+th {
+    text-align: left;
+    width: 33%;
+}
+
+tr {
+    font-weight: 600;
+}
+
+
+#riga1 {
+    background-color: #4ea0ff;
+    color: white;
+}
+
+#riga2 {
+    background-color: #b1e5f2;
+}
+
+#riga3 {
+    background-color: white;
 }
