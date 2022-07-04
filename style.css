@@ -78,3 +78,19 @@ tr {
 #riga3 {
     background-color: white;
 }
+
+#container1 {
+    width: 200px;
+    height: 200px;
+    background-image: url('img/monitor.jpg');
+    color: white;
+
+}
+
+#container2 {
+    width: 200px;
+    height: 200px;
+    background-image: url('img/graph.jpg');
+    color: white;
+    margin-top: 20px;
+}
