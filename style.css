@@ -53,12 +53,15 @@ ul {
 
 table {
     border-collapse: collapse;
-    width: 99%;
+    margin-right: 5px;
+}
+
+#ultima_colonna {
+    width: 50%;
 }
 
 th {
     text-align: left;
-    width: 33%;
 }
 
 tr {
