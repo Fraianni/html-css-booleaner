@@ -4,8 +4,8 @@
 }
 
 #logo {
-    height: 55px;
-    margin-top: 10px;
+    height: 40px;
+    margin-top: 15px;
 }
 
 header {
@@ -50,6 +50,10 @@ footer {
     margin-bottom: 0px;
 }
 
+.paragrafo {
+    margin-top: 10px;
+}
+
 .yellow {
     background-color: #ffff00;
 }
@@ -57,11 +61,13 @@ footer {
 ul {
     list-style-position: inside;
     padding-left: 0;
+    margin-top: 10px;
 }
 
 table {
     border-collapse: collapse;
     margin-right: 5px;
+    margin-top: 10px;
 }
 
 #ultima_colonna {
@@ -104,4 +110,8 @@ tr {
     background-image: url('img/graph.jpg');
     color: white;
     margin-top: 20px;
+}
+
+footer {
+    margin-top: 10px;
 }
